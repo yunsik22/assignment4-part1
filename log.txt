@@ -1,0 +1,39 @@
+Start: Sun, 8 Feb 2015 20:09:43 -0800 
+End: Sun, 8 Feb 2015 20:09:43 -0800 
+Tasks: multtable.php added 2
+
+Start: Sun, 8 Feb 2015 20:09:15 -0800 
+End: Sun, 8 Feb 2015 20:09:15 -0800 
+Tasks: loopback.php added 2
+
+Start: Sun, 8 Feb 2015 20:08:46 -0800 
+End: Sun, 8 Feb 2015 20:08:46 -0800 
+Tasks: login.php added 1
+
+Start: Sun, 8 Feb 2015 20:08:17 -0800 
+End: Sun, 8 Feb 2015 20:08:17 -0800 
+Tasks: content2.php added 1
+
+Start: Sun, 8 Feb 2015 20:07:45 -0800 
+End: Sun, 8 Feb 2015 20:07:45 -0800 
+Tasks: content1.php added 1
+
+Start: Sun, 8 Feb 2015 20:01:59 -0800 
+End: Sun, 8 Feb 2015 20:01:59 -0800 
+Tasks: multtable.php removed 1
+
+Start: Sun, 8 Feb 2015 20:01:19 -0800 
+End: Sun, 8 Feb 2015 20:01:19 -0800 
+Tasks: loopback.php removed 1
+
+Start: Sat, 7 Feb 2015 16:17:34 -0800 
+End: Sat, 7 Feb 2015 16:17:34 -0800 
+Tasks: loopback.php added 1
+
+Start: Sat, 7 Feb 2015 16:16:56 -0800 
+End: Sat, 7 Feb 2015 16:16:56 -0800 
+Tasks: multtable.php added 1
+
+Start: Sat, 7 Feb 2015 16:09:35 -0800 
+End: Sat, 7 Feb 2015 16:09:35 -0800 
+Tasks: Create README.md
